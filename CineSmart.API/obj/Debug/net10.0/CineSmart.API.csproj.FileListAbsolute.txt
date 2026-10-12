@@ -166,3 +166,4 @@ C:\Users\user\OneDrive\Desktop\CineSmart\CineSmart.API\obj\Debug\net10.0\refint\
 C:\Users\user\OneDrive\Desktop\CineSmart\CineSmart.API\obj\Debug\net10.0\CineSmart.API.pdb
 C:\Users\user\OneDrive\Desktop\CineSmart\CineSmart.API\obj\Debug\net10.0\CineSmart.API.genruntimeconfig.cache
 C:\Users\user\OneDrive\Desktop\CineSmart\CineSmart.API\obj\Debug\net10.0\ref\CineSmart.API.dll
+C:\Users\user\OneDrive\Desktop\CineSmart\CineSmart.API\obj\Debug\net10.0\CineSmart.API.sourcelink.json
