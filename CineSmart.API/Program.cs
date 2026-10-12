@@ -14,7 +14,7 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// HTTP сұраныстарын өңдеу конвейері
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
