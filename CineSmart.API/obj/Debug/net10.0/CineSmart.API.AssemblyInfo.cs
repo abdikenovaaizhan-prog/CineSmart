@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CineSmart.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b49df6a9a54fd5496f84bc223457a450862a259d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+965d011058d1d19b3dd5a8d1083162cdebfa8f29")]
 [assembly: System.Reflection.AssemblyProductAttribute("CineSmart.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CineSmart.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
