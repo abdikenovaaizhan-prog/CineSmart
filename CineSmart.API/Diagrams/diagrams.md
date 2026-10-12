@@ -8,4 +8,5 @@
 1. **UC1: Жүйеге кіру (Login / Authentication)**
 2. **UC2: Фильмдер каталогын қарау (View Movies)**
 3. **UC3: Орынды таңдау және брондау (Select & Reserve Seats)**
-4. **UC4: Билет төлеу (Make Payment)**
+4. test
+
